@@ -20,7 +20,7 @@
     <section id="home" class="py-20 md:py-28 text-center">
       <div class="container mx-auto px-6">
         <h1 class="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
-          Hi, I'm <span class="text-yellow-300">Richard Angelo T. Biaculo Supot</span>
+          Hi, I'm <span class="text-yellow-300">Richard Angelo T. Biaculo Supot at si Nandy</span>
         </h1>
         <h2 class="text-2xl md:text-3xl font-semibold text-gray-200 mb-6">
           Third Year Computer Science Student at Gordon College
